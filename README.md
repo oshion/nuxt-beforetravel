@@ -1,6 +1,6 @@
 # nuxt-beforetravel
 
-
+```
 Project Tech Stack
 -- SERVER
 CloudFront
@@ -13,3 +13,4 @@ TypeScript
 python
 -- DATABASE
 MariaDB
+```
